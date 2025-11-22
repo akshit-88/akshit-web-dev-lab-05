@@ -32,3 +32,4 @@ Online Learning Platform — a single-page static landing site showcasing course
 - Tablet: `~768px - 1024px` — reduced columns (3 → 2), stacked header.
 - Mobile: `<= 600px` — single-column layout, collapsed nav (simple hide for this static demo).
 
+

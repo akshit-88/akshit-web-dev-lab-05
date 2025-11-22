@@ -1,12 +1,7 @@
-Akshit
+Akshit 
 Roll No: 2501730020
 Course: B.Tech CSE (AI & ML)
 Section: E
-
-## README.md
-
-
-
 
 # Learnify — Online Learning Platform (capstone-akshit-lab5)
 
@@ -31,5 +26,6 @@ Online Learning Platform — a single-page static landing site showcasing course
 - Desktop: `>= 1024px` — multi-column grids, full layout.
 - Tablet: `~768px - 1024px` — reduced columns (3 → 2), stacked header.
 - Mobile: `<= 600px` — single-column layout, collapsed nav (simple hide for this static demo).
+
 
 
